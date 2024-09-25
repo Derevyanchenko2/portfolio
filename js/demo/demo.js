@@ -1,36 +1,3 @@
-// ------------------------------------------------
-// Project Name: Braxton - Personal Portfolio & Resume HTML Template
-// Project Description: Show yourself brightly with Braxton - unique and creative portfolio and resume template!
-// Tags: mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean
-// Version: 1.0.0
-// Build Date: March 2024
-// Last Update: March 2024
-// This product is available exclusively on Themeforest
-// Author: mix_design
-// Author URI: https://themeforest.net/user/mix_design
-// File name: demo.js
-// ------------------------------------------------
-
-// ------------------------------------------------
-// Table of Contents
-// ------------------------------------------------
-//
-//  01. Loader & Loading Animation
-//  02. Lenis Scroll Plugin
-//  03. Parallax
-//  04. Scroll Animations
-//  05. Smooth Scrolling
-//  06. SVG Fallback
-//  07. Chrome Smooth Scroll
-//  08. Images Moving Ban
-//  09. Scroll To Top
-//  10. Color Switch
-//  11. Marquee
-//
-// ------------------------------------------------
-// Table of Contents End
-// ------------------------------------------------
-
 $(function() {
 
   "use strict";
